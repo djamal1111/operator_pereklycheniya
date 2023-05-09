@@ -1,0 +1,8 @@
+C:\Users\Джамал\source\repos\operator_pereklycheniya\operator_pereklycheniya\bin\Debug\operator_pereklycheniya.exe.config
+C:\Users\Джамал\source\repos\operator_pereklycheniya\operator_pereklycheniya\bin\Debug\operator_pereklycheniya.exe
+C:\Users\Джамал\source\repos\operator_pereklycheniya\operator_pereklycheniya\bin\Debug\operator_pereklycheniya.pdb
+C:\Users\Джамал\source\repos\operator_pereklycheniya\operator_pereklycheniya\obj\Debug\operator_pereklycheniya.csproj.AssemblyReference.cache
+C:\Users\Джамал\source\repos\operator_pereklycheniya\operator_pereklycheniya\obj\Debug\operator_pereklycheniya.csproj.SuggestedBindingRedirects.cache
+C:\Users\Джамал\source\repos\operator_pereklycheniya\operator_pereklycheniya\obj\Debug\operator_pereklycheniya.csproj.CoreCompileInputs.cache
+C:\Users\Джамал\source\repos\operator_pereklycheniya\operator_pereklycheniya\obj\Debug\operator_pereklycheniya.exe
+C:\Users\Джамал\source\repos\operator_pereklycheniya\operator_pereklycheniya\obj\Debug\operator_pereklycheniya.pdb
